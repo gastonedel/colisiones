@@ -15,4 +15,5 @@ public class HelixBehavior : MonoBehaviour {
         transform.eulerAngles += new Vector3(0, rotationSpeed, 0);
 	}
 
+
 }
